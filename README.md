@@ -2,4 +2,4 @@ LearningSample
 ==============
 
 LearningSample
-ddddddddddddd
+dddddddddddddd

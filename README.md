@@ -1,5 +1,0 @@
-LearningSample
-==============
-
-LearningSample
-dddddddddddddd
